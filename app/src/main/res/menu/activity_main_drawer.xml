@@ -16,7 +16,9 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_history"
             android:title="@string/menu_History" />
-
-
+        <item
+            android:id="@+id/nav_run"
+            android:icon="@drawable/ic_history"
+            android:title="@string/menu_run" />
     </group>
 </menu>
